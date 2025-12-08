@@ -1,0 +1,2 @@
+# YYY.exe
+MY NEW MALWARE
