@@ -21,3 +21,6 @@ Credits to... Abrahamtestgdiviruses and N17Pro3426
 Made in c# 3.5 net framework.
 
 Fun fact: you can fix it if you want.
+
+SECOND FACT: AND ALSO WINDOWS XP makes the GDI better.
+
